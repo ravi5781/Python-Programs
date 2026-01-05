@@ -5,10 +5,13 @@ print("\nnum1 before swapping: ", num1)
 print("num2 before swapping:", num2)
 
 #approach1
-
 temp=num1
 num1=num2
 num2=temp
+
+#approach 2
+
+#num1, num2=num2, num1
 
 print("\nnum1 after swapping: ", num1)
 print("num2 after swapping: ", num2)
